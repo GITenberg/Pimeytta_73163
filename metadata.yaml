@@ -1,0 +1,42 @@
+_repo: Pimeytta_73163
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Laihia, Sandra
+    gutenberg_agent_id: '56969'
+    url: http://www.gutenberg.org/2009/agents/56969
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Андреев, Леонид Николаевич
+    - Andreyev, Leonid Nikolayevich
+    - Andreev, Leonid Nikolaevich
+    - Andrejev, Leonid
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: https://en.wikipedia.org/wiki/Leonid_Andreyev
+description: 'Translation of: Тьма.'
+gutenberg_issued: '2024-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73163'
+language: fi
+pgterms:marc905: 20180423080120andrejev
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: $aHämeenlinnassa :$bArvi A. Karisto, $c1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prostitutes -- Fiction'
+- !lcsh 'Terrorists -- Russia -- Fiction'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: Pimeyttä
+url: http://www.gutenberg.org/ebooks/73163
