@@ -5,6 +5,9 @@ contributor:
     agent_name: Laihia, Sandra
     gutenberg_agent_id: '56969'
     url: http://www.gutenberg.org/2009/agents/56969
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Andreyev, Leonid
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1871
     wikipedia: https://en.wikipedia.org/wiki/Leonid_Andreyev
 description: 'Translation of: Тьма.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73163#Pimeytta
 gutenberg_issued: '2024-03-13'
 gutenberg_type: Text
 identifiers:
